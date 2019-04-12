@@ -8,7 +8,3 @@ comments: false
 header:
   image: /assets/images/biology-doctor-health-4154.jpg
 ---
-
-This is the publication page
-         
-

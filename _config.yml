@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-GB"
 title                    : "Temperton Lab"
 title_separator          : "-"
-name                     : "Ashley Bell"
+name                     : "Temperton Lab"
 description              : "The Temperton Lab based in Exeter, UK working on marine viral metagenomics"
 url                      : "https://tempertonlab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TempertonLab/tempertonlab.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/images/analyzing-dark-dof-256262.jpg" # path of fallback teaser image
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -43,21 +43,21 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          :  ['name', 'email', 'url', 'message']
+  branch                 :  "master"
+  commitMessage          :  "New comment by {fields.name}"
+  filename               :  comment-{@timestamp}
+  format                 :  "yml"
+  moderation             :  true
+  path                   :  "/_data/comments/{options.slug}" (default)
+  requiredFields         :  ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                :  "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               :  "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           :  "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :

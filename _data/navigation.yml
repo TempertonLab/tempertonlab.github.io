@@ -1,15 +1,14 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About Us"
     url: /about/
     description: "A little bit about the members of the Temperton Lab"
-  - title: "Sitemap"
-    url: /sitemap/
-  - title: "Protocols"
-    url: /protocols/
   - title: "Current Research"
     url: /research/
   - title: "Published Research"
     url: /publications/
+  - title: "Protocols"
+    url: /protocols/
+  - title: "Sitemap"
+    url: /sitemap/
+
