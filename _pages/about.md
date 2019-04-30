@@ -21,7 +21,7 @@ feature_row:
     excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim posuere euismod. Fusce sed mauris non sapien ultricies condimentum viverra ac mi. Cras porttitor commodo tempus."
   - image_path: /assets/images/elmo-footer.png
     title: "Shayma Alathari"
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim posuere euismod. Fusce sed mauris non sapien ultricies condimentum viverra ac mi. Cras porttitor commodo tempus."
+    excerpt: "I am currently a student at the University of Exeter completing my MbyRes; studying fish skin microbiomes, with a focus on finding alternative ways to reduce animal cruelty while sampling."
     url: /about/shayma
   - image_path: /assets/images/220px-Grover.jpeg
     title: "Joanna Warwick-Dugdale"
