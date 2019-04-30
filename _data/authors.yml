@@ -1,17 +1,17 @@
 Ashley Bell:
   name        : "Ashley Bell"
   bio         : "Bioinformatician at the Temperton Lab"
-  avatar      : # "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/Oscar-can2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:billyrick@rick.com"
+      url: "mailto:btempertonlab@gmail.com"
     - label: "Github"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/ash-bell"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/Ashley0bell"
     - label: "ORCID"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://orcid.org/0000-0003-0198-2205"
@@ -20,14 +20,14 @@ Ashley Bell:
 Michelle Michelsen:
   name        : "Michelle Michelsen"
   bio         : "Research Assistant at the Temperton Lab"
-  avatar      : # "/assets/images/bio-photo.jpg"
+  avatar      : "/assets/images/big_bird_half.0.0.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:cornelius@thewhip.com"
+      url: "mailto:btempertonlab@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/rhymeswithsackit"
+      url: "https://twitter.com/LabTemperton"
 
 Shayma Alathari:
   name        : "Shayma Alathari"
@@ -39,5 +39,41 @@ Shayma Alathari:
       url: "mailto:btempertonlab@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AlathariShayma"
+
+Ben Temperton:
+  name        : "Ben Temperton"
+  bio         : "Principle Investigator at the Temperton Lab"
+  avatar      : "/assets/images/200px-Count_von_Count_kneeling.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:btempertonlab@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/bentemperton"
+
+Joanna Warwick-Dugdale:
+  name        : "Jo Warwick-Dugdale"
+  bio         : "PhD Student at the Temperton Lab"
+  avatar      : "/assets/images/220px-Grover.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:btempertonlab@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/LabTemperton"
+
+Holger Buchholz:
+  name        : "Holger Buchholz"
+  bio         : "PhD Student at the Temperton Lab"
+  avatar      : "/assets/images/cookie_monster.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:btempertonlab@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/HolgerBeechwood"
 
