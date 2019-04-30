@@ -28,3 +28,16 @@ Michelle Michelsen:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/rhymeswithsackit"
+
+Shayma Alathari:
+  name        : "Shayma Alathari"
+  bio         : "Masters Student at the Temperton Lab"
+  avatar      : "/assets/images/elmo-footer.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:btempertonlab@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/LabTemperton"
+
