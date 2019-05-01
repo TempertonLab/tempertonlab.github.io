@@ -2,9 +2,10 @@
 title: "Shayma Alathari"
 layout: single
 author: Shayma Alathari
+author_profile: true
 permalink: /about/shayma/
 ---
-{% include figure image_path="/assets/images/elmo-footer.png" %}
+{% include figure image_path="/assets/images/Shayma_1_600x600.jpeg" %}
 
 I am currently a student at the University of Exeter completing my MbyRes; studying fish skin microbiomes, with a focus on finding alternative ways to reduce animal cruelty while sampling.
 

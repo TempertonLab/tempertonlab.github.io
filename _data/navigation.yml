@@ -3,6 +3,9 @@ main:
   - title: "About Us"
     url: /about/
     description: "A little bit about the members of the Temperton Lab"
+  - title: "Pirate Code"
+    url: /pirate_code/
+    description: "The Pirate Code which every member of the Temperton Lab lives by"
   - title: "Current Research"
     url: /research/
   - title: "Published Research"

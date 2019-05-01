@@ -1,7 +1,7 @@
 Ashley Bell:
   name        : "Ashley Bell"
   bio         : "Bioinformatician at the Temperton Lab"
-  avatar      : "/assets/images/Oscar-can2.jpg"
+  avatar      : "/assets/images/ashley_600x600.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -13,7 +13,7 @@ Ashley Bell:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Ashley0bell"
     - label: "ORCID"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0003-0198-2205"
 
 
@@ -32,7 +32,7 @@ Michelle Michelsen:
 Shayma Alathari:
   name        : "Shayma Alathari"
   bio         : "Masters Student at the Temperton Lab"
-  avatar      : "/assets/images/elmo-footer.png"
+  avatar      : "/assets/images/Shayma_2_600x600.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -44,7 +44,7 @@ Shayma Alathari:
 Ben Temperton:
   name        : "Ben Temperton"
   bio         : "Principle Investigator at the Temperton Lab"
-  avatar      : "/assets/images/200px-Count_von_Count_kneeling.png"
+  avatar      : "/assets/images/Ben_Temperton.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
