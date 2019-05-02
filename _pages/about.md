@@ -10,7 +10,7 @@ intro:
 feature_row:
   - image_path: /assets/images/Ben_Temperton.jpg
     title: "Ben Temperton"
-    excerpt: "I am a microbial ecologist, specializing in bioinformatic analyses of ‘big data’ (metagenomics, metatranscriptomics, metaproteomics) to better understand how interactions within microbial communities enable functional diversity and efficiency that is greater than the sum of its parts"
+    excerpt: "Microbial ecologist, specializing in bioinformatic analyses of ‘big data’ to better understand interactions within microbial communities"
     url: /about/ben
   - image_path: /assets/images/big_bird_half.0.0.jpg
     title: "Michelle Michelsen"
@@ -28,9 +28,9 @@ feature_row:
     title: "Jo Warwick-Dugdale"
     excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim posuere euismod. Fusce sed mauris non sapien ultricies condimentum viverra ac mi. Cras porttitor commodo tempus."
     url: /about/jo
-  - image_path: /assets/images/ernie.jpg
+  - image_path: /assets/images/lucy_600x600.PNG
     title: "Lucy Witherall"
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim posuere euismod. Fusce sed mauris non sapien ultricies condimentum viverra ac mi. Cras porttitor commodo tempus."
+    excerpt: "MbyRes student at the University of Exeter studying phage encapsulation using microfluidics"
     url: /about/lucy
   - image_path: /assets/images/ashley_600x600.jpg
     title: "Ashley Bell"

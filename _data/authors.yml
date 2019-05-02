@@ -77,3 +77,14 @@ Holger Buchholz:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/HolgerBeechwood"
 
+Lucy Witherall:
+  name        : "Lucy Witherall"
+  bio         : "Masters student at the Temperton Lab"
+  avatar      : "/assets/images/lucy_600x600.PNG"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:btempertonlab@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/LucyWitherall"
