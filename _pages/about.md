@@ -10,23 +10,23 @@ intro:
 feature_row:
   - image_path: /assets/images/Ben_Temperton.jpg
     title: "Ben Temperton"
-    excerpt: "Microbial ecologist, specializing in bioinformatic analyses of ‘big data’ to better understand interactions within microbial communities"
+    excerpt: "Principal Investigator of the Temperton Lab, specializing in bioinformatic analyses of ‘big data’ to better understand interactions within microbial communities"
     url: /about/ben
-  - image_path: /assets/images/big_bird_half.0.0.jpg
+  - image_path: /assets/images/blank-profile-picture-600x600.png
     title: "Michelle Michelsen"
     excerpt: "Graduate Research Assistant working on a time series  of the bacterial and viral populations in the West English Channel"
     url: /about/michelle
-  - image_path: /assets/images/cookie_monster.jpeg
+  - image_path: /assets/images/blank-profile-picture-600x600.png
     title: "Holger Buchholz"
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim posuere euismod. Fusce sed mauris non sapien ultricies condimentum viverra ac mi. Cras porttitor commodo tempus."
+    excerpt: "PhD Student"
     url: about/holger
   - image_path: /assets/images/Shayma_1_600x600.jpeg
     title: "Shayma Alathari"
     excerpt: "Proud mum of two. Enjoying every minute of my comeback to Science."
     url: /about/shayma
-  - image_path: /assets/images/220px-Grover.jpeg
+  - image_path: /assets/images/blank-profile-picture-600x600.png
     title: "Jo Warwick-Dugdale"
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim posuere euismod. Fusce sed mauris non sapien ultricies condimentum viverra ac mi. Cras porttitor commodo tempus."
+    excerpt: "PhD Student"
     url: /about/jo
   - image_path: /assets/images/lucy_600x600.PNG
     title: "Lucy Witherall"
@@ -34,11 +34,11 @@ feature_row:
     url: /about/lucy
   - image_path: /assets/images/ashley_600x600.jpg
     title: "Ashley Bell"
-    excerpt: "Bioinformatician at the Temperton Lab working on Marine Metagenomics and Single cell Amplified Genomes"
+    excerpt: "MbyRes bioinformatician at the Temperton Lab working on Marine Metagenomics and Single cell Amplified Genomes"
     url: /about/ashley
-  - image_path: /assets/images/bert-sesame-street-51.1.jpg
+  - image_path: /assets/images/blank-profile-picture-600x600.png
     title: "Peter Lewis"
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim posuere euismod. Fusce sed mauris non sapien ultricies condimentum viverra ac mi. Cras porttitor commodo tempus."
+    excerpt: "Undergraduate Student"
     url: /about/peter
 ---
 {% include feature_row id="intro" type="center" %}

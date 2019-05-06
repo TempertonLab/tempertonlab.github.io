@@ -20,14 +20,14 @@ Ashley Bell:
 Michelle Michelsen:
   name        : "Michelle Michelsen"
   bio         : "Research Assistant at the Temperton Lab"
-  avatar      : "/assets/images/big_bird_half.0.0.jpg"
+  avatar      : "/assets/images/blank-profile-picture-600x600.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:btempertonlab@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/LabTemperton"
+      url: "https://twitter.com/MLMichelsen"
 
 Shayma Alathari:
   name        : "Shayma Alathari"
@@ -56,7 +56,7 @@ Ben Temperton:
 Joanna Warwick-Dugdale:
   name        : "Jo Warwick-Dugdale"
   bio         : "PhD Student at the Temperton Lab"
-  avatar      : "/assets/images/220px-Grover.jpeg"
+  avatar      : "/assets/images/blank-profile-picture-600x600.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -68,7 +68,7 @@ Joanna Warwick-Dugdale:
 Holger Buchholz:
   name        : "Holger Buchholz"
   bio         : "PhD Student at the Temperton Lab"
-  avatar      : "/assets/images/cookie_monster.jpeg"
+  avatar      : "/assets/images/blank-profile-picture-600x600.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -88,3 +88,15 @@ Lucy Witherall:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/LucyWitherall"
+
+Peter Lewis:
+  name        : "Peter Lewis"
+  bio         : "Undergraduate Student at the Temperton Lab"
+  avatar      : "/assets/images/blank-profile-picture-600x600.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:btempertonlab@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: # "https://twitter.com/LucyWitherall"
