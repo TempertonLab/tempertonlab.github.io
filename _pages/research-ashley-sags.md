@@ -15,10 +15,10 @@ With the world’s oceans covering roughly 70% of the earth surface; its impact 
 Single-cell Amplified Genomes are genomes sequenced from single cells via [multiple-displacement amplification technology](https://en.wikipedia.org/wiki/Multiple_displacement_amplification). This enables genomic tools to be used for both cells that can't be isolated, and for studying population genetics at a single-cell level.
 
 ## SAR11 and its importance
-SAGs are a valuable tool for studying SAR11, a marine organism that dominates the ocean's microbial biosphere. SAR11 is somewhat more difficult to culture, with long doubling times and needing to grow in a nutrient "broth" akin to its natural habitat - the open oceans. SAGs allow us to investigate how genomic differences translate into niche-differentiation, i.e. how different types of SAR11 occupy different parts of the oceans.
+SAGs are a valuable tool for studying [SAR11](https://microbewiki.kenyon.edu/index.php/Pelagibacterales_(SAR11), a marine organism that dominates the ocean's microbial biosphere. SAR11 is somewhat more difficult to culture, with long doubling times and needing to grow in a nutrient "broth" akin to its natural habitat - the open oceans. SAGs allow us to investigate how genomic differences translate into niche-differentiation, i.e. how different types of SAR11 occupy different parts of the oceans.
 
 ## 451 SAR11 SAGs 
-451 SAR11 SAGs were sequenced using short read Illumina technology, assembled and displayed here. With a large amount of assemblies, genomic content was compared between organisms to look at differing gene content, phylogenetics and lysogenic viral content. Differing nucleotide content was performed via Average Nuclotide Identitiy (ANI) where nuclotide content in protein coding regions are compared. Phylogentics was done via Multiple Sequence Alignment (MSA) of protein coding regions as well as comparing 16S regions. [Viral signatures](/research/ashley/metagenomics/#global-abundance) were extracted from SAGs and its coding regions analysed. 
+451 SAR11 SAGs were sequenced using short read Illumina technology, assembled and displayed here. With a large amount of assemblies, genomic content was compared between organisms to look at differing gene content, phylogenetics and lysogenic viral content. Differing nucleotide content was performed via [Average Nuclotide Identitiy (ANI)](https://img.jgi.doe.gov/docs/docs/ANI.pdf) where nuclotide content in protein coding regions are compared. Phylogentics was done via [Multiple Sequence Alignment (MSA)](https://en.wikipedia.org/wiki/Multiple_sequence_alignment) of protein coding regions as well as comparing 16S regions. [Viral signatures](/research/ashley/metagenomics/#global-abundance) were extracted from SAGs and its coding regions analysed. 
 
 ## Phylogenetic Tree
 Below contains the 16S rRNA phylogentic tree of SAR11 SAGs.
@@ -27,6 +27,6 @@ Below contains the 16S rRNA phylogentic tree of SAR11 SAGs.
 
 
 ## Average Nuclotide Identity
-ANI is the measurement of how different nuclotide composition of coding regions differ from each other. All SAR11 SAGs ANI was calculated between each other and visualised as a heatmap in the link below. Darker squares indicate a higher ANI or closer genetic identity to each other. Clusters of colours suggest differing populations. 
+ANI is the measurement of how different nuclotide composition of coding regions differ from each other. All SAR11 SAGs ANI was calculated between each other and visualised as a heatmap in the link below. Darker squares indicate a higher ANI or closer genetic identity to each other. Clusters of colour suggest differing populations. 
 
 [ANI between SAGs](/research/ashley/sags/ani)
