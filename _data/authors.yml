@@ -56,14 +56,17 @@ Ben Temperton:
 Joanna Warwick-Dugdale:
   name        : "Jo Warwick-Dugdale"
   bio         : "PhD Student at the Temperton Lab"
-  avatar      : "/assets/images/blank-profile-picture-600x600.png"
+  avatar      : "/assets/images/Jo_Warwick-Dugdale_600x600.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:btempertonlab@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/LabTemperton"
+      url: "https://twitter.com/JoWarwickD"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0001-5242-6706"
 
 Holger Buchholz:
   name        : "Holger Buchholz"

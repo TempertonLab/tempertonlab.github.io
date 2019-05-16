@@ -24,9 +24,9 @@ feature_row:
     title: "Shayma Alathari"
     excerpt: "Proud mum of two. Enjoying every minute of my comeback to Science."
     url: /about/shayma
-  - image_path: /assets/images/blank-profile-picture-600x600.png
+  - image_path: /assets/images/Jo_Warwick-Dugdale_600x600.jpg
     title: "Jo Warwick-Dugdale"
-    excerpt: "PhD Student"
+    excerpt: "PhD Student and marine microbial ecologist with a passion for understanding how communities of the smallest marine organisms"
     url: /about/jo
   - image_path: /assets/images/lucy_600x600.PNG
     title: "Lucy Witherall"
