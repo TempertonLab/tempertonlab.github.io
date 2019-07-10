@@ -3,7 +3,7 @@ title: "Ashley's Research"
 layout: single
 author_profile: true
 author: Ashley Bell
-permalink: /research/ashley/
+permalink: /research/ashley
 toc: true
 toc_label: "Contents"
 toc_icon: "cog"
