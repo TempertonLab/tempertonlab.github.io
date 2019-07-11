@@ -5,7 +5,7 @@ classes: wide
 author_profile: false
 permalink: /research/
 header:
-  image: /assets/images/OM43phage.jpg
+  image: /assets/images/OM43phage.png
 ---
 
 The research in the Temperton Lab is focused on understanding the impact and evolution of host-virus interactions, and their role in shaping microbial communities and in driving global nutrient biogeochemical cycles. Currently this falls into three main research areas:
@@ -20,4 +20,4 @@ After 100 years of phage research, it is understood that during early infection,
 
 ## 3. Identifying the role of host-virus interactions in host-associated microbiomes in aquaculture species.
 
-Aquaculture currently provides over half of all fish for human consumption. With global populations set to rise to 9.7 billion by 2050, aquaculture is of major importance to food security, particularly in low-income food-deficit countries. Presently, disease acts as the major constraint to aquaculture productivity, exacerbated by over-stocking, poor water quality and the emergence of new pathogens with global reach thanks to international trade. Animal-associated microbiomes are understood to be an integral component of animal health, with shifts in microbial communities associated with positive or negative health outcomes. Our lab aims to better understand the role of viruses in microbiome stability and disturbance during fish development and disease outbreaks and the impact of lysogeny on horizontal gene transfer of antimicrobial resistance genes. We are also developing novel field-based sequencing techniques for real-time analysis of pathogenic viral outbreaks such as Tilapia lake virus, in collaboration with [WorldFish](https://www.worldfishcenter.org/) and [Cefas](https://www.cefas.co.uk/).
+Aquaculture currently provides over half of all fish for human consumption. With global populations set to rise to 9.7 billion by 2050, aquaculture is of major importance to food security, particularly in low-income food-deficit countries. Presently, disease acts as the major constraint to aquaculture productivity, exacerbated by over-stocking, poor water quality and the emergence of new pathogens with global reach thanks to international trade. Animal-associated microbiomes are understood to be an integral component of animal health, with shifts in microbial communities associated with positive or negative health outcomes. Our lab aims to better understand the role of viruses in microbiome stability and disturbance during fish development and disease outbreaks, and the impact of lysogeny on horizontal gene transfer of antimicrobial resistance genes. We are also developing novel field-based sequencing techniques for real-time analysis of pathogenic viral outbreaks such as Tilapia lake virus, in collaboration with [WorldFish](https://www.worldfishcenter.org/) and [Cefas](https://www.cefas.co.uk/).
