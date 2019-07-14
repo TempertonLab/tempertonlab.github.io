@@ -12,11 +12,11 @@ feature_row:
     title: "Ben Temperton"
     excerpt: "Principal Investigator of the Temperton Lab, specializing in bioinformatic analyses of ‘big data’ to better understand interactions within microbial communities"
     url: /about/ben
-  - image_path: /assets/images/blank-profile-picture-600x600.png
+  - image_path: /assets/images/michelle.jpg
     title: "Michelle Michelsen"
     excerpt: "Graduate Research Assistant working on a time series  of the bacterial and viral populations in the West English Channel"
     url: /about/michelle
-  - image_path: /assets/images/michelle.jpg
+  - image_path: /assets/images/blank-profile-picture-600x600.png
     title: "Holger Buchholz"
     excerpt: "PhD Student"
     url: about/holger
