@@ -87,6 +87,15 @@ As the **PI** of the Temperton Lab, I am expected to:
 * Represent the lab with pride and integrity, and show respect for others
 * **Adhere to the code**
 
+As a **postdoctoral researcher** you are expected to:
+* Play a leadership role in managing projects on which you are working. This can include developing your own
+research ideas, coordinating among team members, securing the necessary materials to complete your work,
+and developing new collaborations. It also includes setting a good example of proper research conduct,
+integrity, and work ethic; providing advice and guidance to junior team members; and encouraging a
+creative, collaborative environment.
+* Provide technical training for graduate students and undergraduate researchers.
+* Provide high-quality manuscript drafts with publication-ready figures to the PI.
+* Discuss possible job applications with the PI in advance so proper time away expectations can be developed.
 -------------------------------------------
 
 <sub>*Adapted from [The Thrash Lab](https://thethrashlab.files.wordpress.com/2013/08/thrash_lab_personnel_expectations.pdf)</sub>
