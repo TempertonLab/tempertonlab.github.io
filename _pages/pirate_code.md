@@ -96,7 +96,6 @@ creative, collaborative environment.
 * Provide technical training for graduate students and undergraduate researchers.
 * Provide high-quality manuscript drafts with publication-ready figures to the PI.
 * Discuss possible job applications with the PI in advance so proper time away expectations can be developed.
-* **Adhere to the code**
 -------------------------------------------
 
 <sub>*Adapted from [The Thrash Lab](https://thethrashlab.files.wordpress.com/2013/08/thrash_lab_personnel_expectations.pdf)</sub>
