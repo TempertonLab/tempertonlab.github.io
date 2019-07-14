@@ -4,7 +4,7 @@ classes: wide
 permalink: /about/
 author_profile: false
 header:
-  image: assets/images/Temperton_lab_800x200.jpg
+  image: assets/images/ship.jpg
 intro:
   - excerpt: "We are a group of Marine microbial ecologists at the University of Exeter, UK striving to #bemorepirate"
 feature_row:
