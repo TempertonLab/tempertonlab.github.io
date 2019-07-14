@@ -8,14 +8,14 @@ header:
   image: /assets/images/OM43phage.png
 ---
 
-The research in the Temperton Lab is focused on understanding the impact and evolution of host-virus interactions, and their role in shaping microbial communities and in driving global nutrient biogeochemical cycles. Currently this falls into three main research areas:
+The research in the Temperton Lab is focused on understanding the impact and evolution of host-virus interactions, and their role in shaping microbial communities and in driving global nutrient biogeochemical cycles. Currently this falls into four main research areas:
 
 ## 1. Developing long-read sequencing technology for improved viral metagenomics
 
 In recent years, our understanding of viral ecology in marine and soils systems has been dramatically enhanced by the development of protocols for robust viral metagenomic sequencing and analysis. This work has shown that viruses are major drivers of global carbon biogeochemical cycles, horizontal gene transfer and carbon transport from the surface to the deep ocean. However, short-read methods fail to assemble important and extremely abundant members of viral communities, such as viruses infecting the globally dominant Pelagibacterales. It is hypothesised that the high abundance and microdiversity in these viral populations challenge resolution of De Bruijn Graph assembly, leading to highly fragmented genomes. We recently developed methods to overcome this using long-read metagenomes on the Oxford Nanopore MinION sequencer. This new method of sequencing captures abundant and diverse viral populations previously missed by short reads. Furthermore, the long reads enable us to explore and better understand the role of viral hypervariable regions in niche-adaptation.
 
 ## 2. Quantifying the impact of host-virus interactions on carbon flux in the Open Ocean
-Viruses are the most abundant organisms on Earth, and profoundly impact nutrient cycling in the oceans. They kill around 1 in 3 cells every day in the oceans, releasing intracellular dissolved organic carbon into the water for use by the surviving community, and causing cell debris to sink into the deep ocean. Phages are estimated to be responsible for ~150 Gt of carbon flux in the oceans every year. As part of the [BIOS-SCOPE project](http://scope.bios.edu/), we are investigating how viral predation impacts carbon availability and sequestration in the North Atlantic Subtropical Gyre. 
+Viruses are the most abundant organisms on Earth, and profoundly impact nutrient cycling in the oceans. They kill around 1 in 3 cells every day in the oceans, releasing intracellular dissolved organic carbon into the water for use by the surviving community, and causing cell debris to sink into the deep ocean. Phages are estimated to be responsible for ~150 Gt of carbon flux in the oceans every year. As part of the [BIOS-SCOPE project](http://scope.bios.edu/), we are investigating how viral predation impacts carbon availability and sequestration in the North Atlantic Subtropical Gyre.
 
 ## 3. Understanding how genome minimalism impacts host-virus interactions
 

@@ -24,7 +24,7 @@ url                      : "https://tempertonlab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TempertonLab/tempertonlab.github.io"
 teaser                   : # "assets/images/analyzing-dark-dof-256262.jpg" # path of fallback teaser image
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/logo_pirate.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/ashley_600x600.jpg"
   bio              : "Bioinformatician at the Temperton Lab"
   location         : "Exeter, UK"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
