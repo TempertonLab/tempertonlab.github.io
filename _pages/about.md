@@ -3,9 +3,9 @@ layout: single
 classes: wide
 permalink: /about/
 author_profile: false
-header: 
+header:
   image: assets/images/Temperton_lab_800x200.jpg
-intro: 
+intro:
   - excerpt: "We are a group of Marine microbial ecologists at the University of Exeter, UK striving to #bemorepirate"
 feature_row:
   - image_path: /assets/images/Ben_Temperton.jpg
@@ -16,7 +16,7 @@ feature_row:
     title: "Michelle Michelsen"
     excerpt: "Graduate Research Assistant working on a time series  of the bacterial and viral populations in the West English Channel"
     url: /about/michelle
-  - image_path: /assets/images/blank-profile-picture-600x600.png
+  - image_path: /assets/images/michelle.jpg
     title: "Holger Buchholz"
     excerpt: "PhD Student"
     url: about/holger
@@ -43,6 +43,3 @@ feature_row:
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
-
-
-
