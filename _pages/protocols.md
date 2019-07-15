@@ -1,11 +1,11 @@
 ---
 title: "Protocols"
-layout: protocols
+layout: single
 author: Michelle Michelsen
-author_profile: true
+author_profile: false
 permalink: /protocols/
 header:
   image: /assets/images/account-black-and-white-business-209137.jpg
 ---
 
-
+We strive to keep our lab work and bioinformatic analyses as open and reproducible as possible. All our developed protocols can be found on [protocols.io](https://www.protocols.io/groups/temperton-lab)
