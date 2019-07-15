@@ -18,11 +18,11 @@ feature_row:
     url: /about/michelle
   - image_path: /assets/images/holger.jpg
     title: "Holger Buchholz"
-    excerpt: "PhD Student"
+    excerpt: "PhD Student working on SAR11 viral isolation and co-evolution"
     url: about/holger
   - image_path: /assets/images/Shayma_1_600x600.jpeg
     title: "Shayma Alathari"
-    excerpt: "Proud mum of two. Enjoying every minute of my comeback to Science."
+    excerpt: "Proud mum of two. Enjoying every minute of my comeback to Science investigating microbiomes associated with Tilapia in aquaculture."
     url: /about/shayma
   - image_path: /assets/images/Jo_Warwick-Dugdale_600x600.jpg
     title: "Jo Warwick-Dugdale"
@@ -30,7 +30,7 @@ feature_row:
     url: /about/jo
   - image_path: /assets/images/lucy_600x600.PNG
     title: "Lucy Witherall"
-    excerpt: "MbyRes student at the University of Exeter studying phage encapsulation using microfluidics"
+    excerpt: "MbyRes student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
     url: /about/lucy
   - image_path: /assets/images/ashley_600x600.jpg
     title: "Ashley Bell"
@@ -38,7 +38,7 @@ feature_row:
     url: /about/ashley
   - image_path: /assets/images/blank-profile-picture-600x600.png
     title: "Peter Lewis"
-    excerpt: "Undergraduate Student"
+    excerpt: "Undergraduate Student working on isolation of new bacteria and viruses from coastal waters"
     url: /about/peter
 ---
 {% include feature_row id="intro" type="center" %}
