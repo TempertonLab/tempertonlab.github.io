@@ -9,3 +9,5 @@ header:
 ---
 
 We strive to keep our lab work and bioinformatic analyses as open and reproducible as possible. All our developed protocols can be found on [protocols.io](https://www.protocols.io/groups/temperton-lab)
+
+We keep our useful scripts for analysing viral sequence data (in R and python code) [here](https://github.com/btemperton/tempertonlab_utils)
