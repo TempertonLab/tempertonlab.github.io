@@ -16,7 +16,7 @@ feature_row:
     title: "Michelle Michelsen"
     excerpt: "Graduate Research Assistant working on a time series  of the bacterial and viral populations in the West English Channel"
     url: /about/michelle
-  - image_path: /assets/images/blank-profile-picture-600x600.png
+  - image_path: /assets/images/holger.jpg
     title: "Holger Buchholz"
     excerpt: "PhD Student"
     url: about/holger
