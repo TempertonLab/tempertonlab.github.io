@@ -12,7 +12,7 @@ feature_row:
     title: "Ben Temperton"
     excerpt: "Principal Investigator of the Temperton Lab, specializing in bioinformatic analyses of ‘big data’ to better understand interactions within microbial communities"
     url: /about/ben
-  - image_path: /assets/images/michelle.jpg
+  - image_path: /assets/images/brita_water_filter.jpg
     title: "Michelle Michelsen"
     excerpt: "Graduate Research Assistant working on a time series  of the bacterial and viral populations in the West English Channel"
     url: /about/michelle
@@ -22,7 +22,7 @@ feature_row:
     url: about/holger
   - image_path: /assets/images/Shayma_1_600x600.jpeg
     title: "Shayma Alathari"
-    excerpt: "Proud mum of two. Enjoying every minute of my comeback to Science investigating microbiomes associated with Tilapia in aquaculture."
+    excerpt: "PhD Student. Proud mum of two. Enjoying every minute of my comeback to Science investigating microbiomes associated with Tilapia in aquaculture."
     url: /about/shayma
   - image_path: /assets/images/Jo_Warwick-Dugdale_600x600.jpg
     title: "Jo Warwick-Dugdale"
