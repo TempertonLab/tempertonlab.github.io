@@ -12,7 +12,7 @@ feature_row:
     title: "Ben Temperton"
     excerpt: "Principal Investigator of the Temperton Lab, specializing in bioinformatic analyses of ‘big data’ to better understand interactions within microbial communities"
     url: /about/ben
-  - image_path: /assets/images/brita_water_filter.jpg
+  - image_path: /assets/images/michelle.jpg
     title: "Michelle Michelsen"
     excerpt: "Graduate Research Assistant working on a time series  of the bacterial and viral populations in the West English Channel"
     url: /about/michelle
@@ -30,7 +30,7 @@ feature_row:
     url: /about/jo
   - image_path: /assets/images/lucy_600x600.PNG
     title: "Lucy Witherall"
-    excerpt: "MbyRes student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
+    excerpt: "PhD student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
     url: /about/lucy
   - image_path: /assets/images/ashley_600x600.jpg
     title: "Ashley Bell"
