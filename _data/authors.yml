@@ -19,8 +19,8 @@ Ashley Bell:
 
 Michelle Michelsen:
   name        : "Michelle Michelsen"
-  bio         : "Sweaty pilus at the Temperton Lab"
-  avatar      : "/assets/images/brita_water_filter.jpg"
+  bio         : "Research Assistant at the Temperton Lab"
+  avatar      : "/assets/images/michelle.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
