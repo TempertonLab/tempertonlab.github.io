@@ -9,10 +9,11 @@ toc_label: "Contents"
 toc_icon: "cog"
 ---
 ## Hi!
-If you made it here, this is my landing page for my research. Take a look at my projects in the links below or my blog!
+If you made it here, this is my landing page for the various research projects I am part of.
 
-[Metagenomics](/research/ashley/metagenomics)
+## [Metagenomics of the Bermuda Atlantic Time Series (BATS)](/research/ashley/metagenomics)
+This project consisted of looking at changes in marine bacterial populations over a diel cycle within a timeseries at Bermuda. Analysis consisted of the assembly of Metagenomic Assembled Genomes within the cellular fraction and genomics analysis.
 
-[SAGS](/research/ashley/sags)
 
-[Blog](/research/ashley/blog)
+## [SAR11 Single-cell Amplified Genomes (SAGs)](/research/ashley/sags)
+451 SAR11 SAGs were isolated and sequenced. This project consisted of the genomic analysis of these SAGs. 

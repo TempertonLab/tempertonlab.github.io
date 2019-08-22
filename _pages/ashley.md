@@ -11,4 +11,6 @@ I am a masters student completing my masters by research in bioinformatics at th
 
 I completed my undergraduate degree at the University of Exeter in 2015 acheiving a Bachelor of Science with Honours in Biological Sciences (Molecular and Cellular Biology). I am hoping to continue my studies in Exeter in the future. 
 
-As a bioinformatician I am increasingly interested in ways computer science can be use in a biological context. I am looking at methods of answering biological questions with big datasets using computer algorithims. 
+As a bioinformatician I am increasingly interested in ways computer science can be use in a biological context. I am looking at methods of answering biological questions with big datasets using computer algorithims.
+
+If you want to take a look at some of the research projects I am part of, [click here](/research/ashley)
