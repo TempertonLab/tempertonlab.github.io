@@ -48,7 +48,7 @@ In 2013 it was discovered that there were abundant SAR11 viruses in the ocean co
 ## Hypervariable Regions
 Hypervariable Regions (HVRs) are genomic regions undergoing higher evolutionary rates in comparison to other areas of its genome. This allows for genes located within these regions to undergo higher mutation rates resulting in new and novel gene formations or slight variations in existing genes that conferr additional fitness.
 
-![](/assets/ashley_images/Grote_et_al_HVRs.png "(Grote et al 2012) Fig 6. Streamlining and Core Genome Conservation among Highly Divergent Members of the SAR11 Clade"
+![](/assets/ashley_images/Grote_et_al_HVRs.png "(Grote et al 2012) Fig 6. Streamlining and Core Genome Conservation among Highly Divergent Members of the SAR11 Clade")
 [Grote et al 2012](https://mbio.asm.org/content/3/5/e00252-12) Fig 6. Streamlining and Core Genome Conservation among Highly Divergent Members of the SAR11 Clade 
 
 
