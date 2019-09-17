@@ -14,3 +14,10 @@ I completed my undergraduate degree at the University of Exeter in 2015 acheivin
 As a bioinformatician I am increasingly interested in ways computer science can be use in a biological context. I am looking at methods of answering biological questions with big datasets using computer algorithims.
 
 If you want to take a look at some of the research projects I am part of, [click here](/research/ashley)
+
+
+Previous Posters
+
+[BioCon 2018 Poster](/assets/ashley_images/Ashley_BioCon_Presentation.pdf)
+
+[Genome Science 2019 Poster](/assets/ashley_images/Genome_Science_Poster.pdf)
