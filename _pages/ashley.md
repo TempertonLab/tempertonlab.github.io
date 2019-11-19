@@ -5,7 +5,7 @@ author: Ashley Bell
 author_profile: true
 permalink: /about/ashley/
 ---
-{% include figure image_path="/assets/images/ashley_600x600.jpg" %}
+{% include figure image_path="/assets/images/Ashley_500x500.jpg" %}
 
 I am a masters student completing my masters by research in bioinformatics at the university of Exeter, UK. My current area of study is in marine metagenomics and single-cell amplified genomes. 
 

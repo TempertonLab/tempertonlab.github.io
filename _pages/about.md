@@ -32,9 +32,9 @@ feature_row:
     title: "Lucy Witherall"
     excerpt: "PhD student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
     url: /about/lucy
-  - image_path: /assets/images/ashley_600x600.jpg
+  - image_path: /assets/images/Ashley_500x500.jpg
     title: "Ashley Bell"
-    excerpt: "MbyRes bioinformatician at the Temperton Lab working on Marine Metagenomics and Single cell Amplified Genomes"
+    excerpt: "GRA and MbyRes bioinformatician working on Marine Metagenomics, Single cell Amplified Genomes"
     url: /about/ashley
   - image_path: /assets/images/blank-profile-picture-600x600.png
     title: "Peter Lewis"

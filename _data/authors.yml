@@ -1,7 +1,7 @@
 Ashley Bell:
   name        : "Ashley Bell"
   bio         : "Bioinformatician at the Temperton Lab"
-  avatar      : "/assets/images/ashley_600x600.jpg"
+  avatar      : "/assets/images/Ashley_500x500.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
