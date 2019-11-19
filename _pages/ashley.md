@@ -7,7 +7,7 @@ permalink: /about/ashley/
 ---
 {% include figure image_path="/assets/images/Ashley_500x500.jpg" %}
 
-I am a masters student completing my masters by research in bioinformatics at the university of Exeter, UK. My current area of study is in marine metagenomics and single-cell amplified genomes. 
+I am a Graduate Research Assistant using nanopore technologies to sequence viral metagenomics in the West English Channel. I am also a masters student completing my masters by research in bioinformatics at the university of Exeter, UK. My current area of study is in marine metagenomics and single-cell amplified genomes. 
 
 I completed my undergraduate degree at the University of Exeter in 2015 acheiving a Bachelor of Science with Honours in Biological Sciences (Molecular and Cellular Biology). I am hoping to continue my studies in Exeter in the future. 
 
