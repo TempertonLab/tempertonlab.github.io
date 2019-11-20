@@ -22,7 +22,7 @@ feature_row:
     url: about/holger
   - image_path: /assets/images/Shayma_1_600x600.jpeg
     title: "Shayma Alathari"
-    excerpt: "PhD Student. Proud mum of two. Enjoying every minute of my comeback to Science investigating microbiomes associated with Tilapia in aquaculture."
+    excerpt: "PhD student at Exeter University, working in alliance with CEFAS to develop genomic tools for field based screening of pathogens in aquaculture"
     url: /about/shayma
   - image_path: /assets/images/Jo_Warwick-Dugdale_600x600.jpg
     title: "Jo Warwick-Dugdale"
