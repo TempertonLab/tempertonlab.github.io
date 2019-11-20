@@ -28,7 +28,7 @@ feature_row:
     title: "Jo Warwick-Dugdale"
     excerpt: "PhD Student and marine microbial ecologist with a passion for understanding how communities of the smallest marine organisms"
     url: /about/jo
-  - image_path: /assets/images/lucy_600x600.PNG
+  - image_path: /assets/images/Lucy.png
     title: "Lucy Witherall"
     excerpt: "PhD student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
     url: /about/lucy
