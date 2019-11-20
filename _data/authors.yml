@@ -83,7 +83,7 @@ Holger Buchholz:
 Lucy Witherall:
   name        : "Lucy Witherall"
   bio         : "Masters student at the Temperton Lab"
-  avatar      : "/assets/images/lucy_600x600.PNG"
+  avatar      : "/assets/images/Lucy.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
