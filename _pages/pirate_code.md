@@ -66,6 +66,7 @@ discretion in revealing the details of our work. This does not mean we will not 
 among colleagues, only that I need to be aware of the communication beforehand. If you are
 unsure of what level of detail you can describe to whom, please ask me about it in advance.
 * When presenting data to me, do so in an appropriate format (e.g. graph, table, figure). Convince me of what you're saying with data. Snippets through the Slack channel are interesting, but remember I have many projects to manage simultaneously and important details can get lost. Email is a better format for long discussions.
+* When presenting written work to me for feedback, make sure that it has been proofread by at least one other person before I see it (either inside or outside of the lab group). Reviewing documents is much more efficient and constructive if I'm not required to fix grammar/spelling issues.
 * My expectation of Ph.D. students is that you produce at least 2 first-author publications.
 * My expectation of MbyRes students is to present your work as a poster at a conference.
 * **Adhere to the code**
