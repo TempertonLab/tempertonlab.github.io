@@ -79,6 +79,18 @@ Holger Buchholz:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/HolgerBeechwood"
+      
+Luis Bolaños:
+  name        : "Luis Bolaños"
+  bio         : "Postdoctoral Researcher"
+  avatar      : "/assets/images/prof_picLb.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:L.Bolanos-Avellaneda@exeter.ac.uk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lbolanos68"
 
 Lucy Witherall:
   name        : "Lucy Witherall"
