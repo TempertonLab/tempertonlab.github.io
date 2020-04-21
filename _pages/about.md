@@ -14,8 +14,12 @@ feature_row:
     url: /about/ben
   - image_path: /assets/images/michelle_1200x1200.png
     title: "Michelle Michelsen"
-    excerpt: "Graduate Research Assistant working on a time series  of the bacterial and viral populations in the West English Channel"
+    excerpt: "Graduate Research Assistant working on a time series of bacterial and viral populations in the West English Channel"
     url: /about/michelle
+  - image_path: /assets/images/prof_picLB.jpg
+    title: "Luis Bolaños"
+    excerpt: "Postdoctoral Researcher working on the War of Tiny Giants project"
+    url: /about/luis
   - image_path: /assets/images/holger.jpg
     title: "Holger Buchholz"
     excerpt: "PhD Student working on SAR11 viral isolation and co-evolution"
