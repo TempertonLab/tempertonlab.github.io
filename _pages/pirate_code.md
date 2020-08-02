@@ -48,9 +48,9 @@ As a **member** of the Temperton lab, you are expected to:
 * Cultivate your curiosity about the work you do and think creatively
 * Actively participate in all laboratory group functions
 * Treat all lab equipment with respect and care and perform regular maintenance as necessary.
-* Be responsible for your own schedule, but you are expected to be in the lab for full working days, with at least four hours overlap with the PI, and on weekends and evenings when necessary for your project<sup>**</sup>.
+* Be responsible for your own schedule, but you are expected to be doing ~40 hours a week, with at least four hours overlap with the rest of the team (12pm-4pm), and on weekends and evenings when necessary for your project<sup>**</sup>.
 * Be flexible, available, and willing to work beyond your personal schedule in emergencies or crunch times
-* Respect other people's work hours. Avoid unnecessary emails or Slack usage at weekends or evenings.
+* Respect other people's work hours. Avoid unnecessary communication at weekends or evenings.
 * Clear any anticipated absences with me a couple of weeks prior to leaving so that all experiments and other work can be properly locked down or handed off for the days you will be gone
 * Deal with research challenges in the following order:
 1. Sit down and think about solutions yourself
@@ -79,7 +79,6 @@ As the **PI** of the Temperton Lab, I am expected to:
 * Provide mentorship, guidance, and support to those who work in the lab, including, but not limited to, technical training for lab protocols and equipment, experimental design, project strategy and planning, manuscript preparation and submission, logistics, job searches, poster and oral presentations, teaching, letters of recommendation and career advice.
 * Develop and nurture a culture of curiosity, exploration, learning, teamwork, and positive, solution-oriented attitudes throughout the lab
 * Ensure a **safe and supportive work environment free from any forms of harassment and dedicated to personal equality**
-* Be available to discuss scientific and personnel issues during core working hours.
 * Develop and nurture collaborations with other PIs and their lab members
 * Approve all abstracts, manuscripts, or any other representation of the research that comes from the lab
 * Be timely and constructive with comments on abstracts, proposals, and manuscripts in preparation
