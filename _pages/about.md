@@ -20,22 +20,24 @@ feature_row:
     title: "Luis Bolaños"
     excerpt: "Postdoctoral Researcher working on the War of Tiny Giants project"
     url: /about/luis
-  - image_path: /assets/images/holger.jpg
-    title: "Holger Buchholz"
-    excerpt: "PhD Student working on SAR11 viral isolation and co-evolution"
-    url: about/holger
   - image_path: /assets/images/Shayma_1_600x600.jpeg
     title: "Shayma Alathari"
     excerpt: "PhD student at Exeter University, working in alliance with CEFAS to develop genomic tools for field based screening of pathogens in aquaculture"
     url: /about/shayma
   - image_path: /assets/images/Jo_Warwick-Dugdale_600x600.jpg
     title: "Jo Warwick-Dugdale"
-    excerpt: "PhD Student and marine microbial ecologist with a passion for understanding how communities of the smallest marine organisms"
+    excerpt: "Postdoc and marine microbial ecologist with a passion for understanding how communities of the smallest marine organisms"
     url: /about/jo
+intro:
+  - excerpt: "Previous lab members"
+feature_row:
+  - image_path: /assets/images/holger.jpg
+    title: "Holger Buchholz"
+    excerpt: "PhD Student working on SAR11 viral isolation and co-evolution (now at Oregon State University)"
+
   - image_path: /assets/images/Lucy.png
-    title: "Lucy Witherall"
-    excerpt: "PhD student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
-    url: /about/lucy
+      title: "Lucy Witherall"
+      excerpt: "PhD student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
   - image_path: /assets/images/Ashley_500x500.jpg
     title: "Ashley Bell"
     excerpt: "GRA and MbyRes bioinformatician working on Marine Metagenomics, Single cell Amplified Genomes"
@@ -44,6 +46,7 @@ feature_row:
     title: "Peter Lewis"
     excerpt: "Undergraduate Student working on isolation of new bacteria and viruses from coastal waters"
     url: /about/peter
+
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
