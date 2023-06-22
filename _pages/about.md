@@ -7,7 +7,7 @@ header:
   image: assets/images/ship.jpg
 intro:
   - excerpt: "We are a group of viral ecologists at the University of Exeter, UK striving to #bemorepirate"
-feature_row:
+feature_row_present:
   - image_path: /assets/images/Ben_Temperton.jpg
     title: "Ben Temperton"
     excerpt: "Principal Investigator of the Temperton Lab, specializing in bioinformatic analyses of ‘big data’ to better understand interactions within microbial communities"
@@ -30,7 +30,7 @@ feature_row:
     url: /about/jo
 past_members:
   - excerpt: "Previous lab members"
-feature_row:
+feature_row_past:
   - image_path: /assets/images/holger.jpg
     title: "Holger Buchholz"
     excerpt: "PhD Student working on SAR11 viral isolation and co-evolution (now at Oregon State University)"
@@ -48,6 +48,6 @@ feature_row:
 
 ---
 {% include feature_row id="intro" type="center" %}
-{% include feature_row %}
+{% include feature_row_present %}
 {% include feature_row id="past_members" type="center" %}
-{% include feature_row %}
+{% include feature_row_past %}
