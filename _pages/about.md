@@ -34,10 +34,9 @@ feature_row:
   - image_path: /assets/images/holger.jpg
     title: "Holger Buchholz"
     excerpt: "PhD Student working on SAR11 viral isolation and co-evolution (now at Oregon State University)"
-
   - image_path: /assets/images/Lucy.png
-      title: "Lucy Witherall"
-      excerpt: "PhD student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
+    title: "Lucy Witherall"
+    excerpt: "PhD student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
   - image_path: /assets/images/Ashley_500x500.jpg
     title: "Ashley Bell"
     excerpt: "GRA and MbyRes bioinformatician working on Marine Metagenomics, Single cell Amplified Genomes"
