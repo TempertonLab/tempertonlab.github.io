@@ -28,7 +28,7 @@ feature_row:
     title: "Jo Warwick-Dugdale"
     excerpt: "Postdoc and marine microbial ecologist with a passion for understanding how communities of the smallest marine organisms"
     url: /about/jo
-intro:
+past_members:
   - excerpt: "Previous lab members"
 feature_row:
   - image_path: /assets/images/holger.jpg
@@ -48,4 +48,6 @@ feature_row:
 
 ---
 {% include feature_row id="intro" type="center" %}
+{% include feature_row %}
+{% include feature_row id="past_members" type="center" %}
 {% include feature_row %}
