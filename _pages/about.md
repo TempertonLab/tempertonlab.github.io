@@ -48,6 +48,6 @@ feature_row_past:
 
 ---
 {% include feature_row id="intro" type="center" %}
-{% include feature_row_present %}
+{% include feature_row id="feature_row_present" %}
 {% include feature_row id="past_members" type="center" %}
-{% include feature_row_past %}
+{% include feature_row id="feature_row_past"%}
