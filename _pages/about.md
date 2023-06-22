@@ -6,7 +6,7 @@ author_profile: false
 header:
   image: assets/images/ship.jpg
 intro:
-  - excerpt: "We are a group of Marine microbial ecologists at the University of Exeter, UK striving to #bemorepirate"
+  - excerpt: "We are a group of viral ecologists at the University of Exeter, UK striving to #bemorepirate"
 feature_row:
   - image_path: /assets/images/Ben_Temperton.jpg
     title: "Ben Temperton"
