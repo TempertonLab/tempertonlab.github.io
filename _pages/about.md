@@ -7,7 +7,7 @@ header:
   image: assets/images/ship.jpg
 intro:
   - excerpt: "We are a group of viral ecologists at the University of Exeter, UK striving to #bemorepirate"
-feature_row_present:
+feature_row:
   - image_path: /assets/images/Ben_Temperton.jpg
     title: "Ben Temperton"
     excerpt: "Principal Investigator of the Temperton Lab, specializing in bioinformatic analyses of ‘big data’ to better understand interactions within microbial communities"
@@ -28,26 +28,6 @@ feature_row_present:
     title: "Jo Warwick-Dugdale"
     excerpt: "Postdoc and marine microbial ecologist with a passion for understanding how communities of the smallest marine organisms"
     url: /about/jo
-past_members:
-  - excerpt: "Previous lab members"
-feature_row_past:
-  - image_path: /assets/images/holger.jpg
-    title: "Holger Buchholz"
-    excerpt: "PhD Student working on SAR11 viral isolation and co-evolution (now at Oregon State University)"
-  - image_path: /assets/images/Lucy.png
-    title: "Lucy Witherall"
-    excerpt: "PhD student at the University of Exeter studying phage encapsulation using microfluidics for improved phage therapy"
-  - image_path: /assets/images/Ashley_500x500.jpg
-    title: "Ashley Bell"
-    excerpt: "GRA and MbyRes bioinformatician working on Marine Metagenomics, Single cell Amplified Genomes"
-    url: /about/ashley
-  - image_path: /assets/images/blank-profile-picture-600x600.png
-    title: "Peter Lewis"
-    excerpt: "Undergraduate Student working on isolation of new bacteria and viruses from coastal waters"
-    url: /about/peter
-
 ---
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="feature_row_present" %}
-{% include feature_row id="past_members" type="center" %}
-{% include feature_row id="feature_row_past"%}
+{% include feature_row %}
