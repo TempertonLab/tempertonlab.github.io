@@ -1,5 +1,5 @@
 ---
-title: "Current Reseach"
+title: "Current Research"
 layout: categories
 classes: wide
 author_profile: false
